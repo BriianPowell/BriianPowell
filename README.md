@@ -22,6 +22,8 @@ My name is Brian
 * 💬 Let's talk about AWS, GCP & Azure!
 * 📫 Reach me at my [email](mailto:brian@powell.place) 
 
+---
+
 #### Socials
 
 <div id="badges" align="center">
