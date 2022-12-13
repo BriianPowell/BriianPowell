@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I'm Brian 😎
+
+* Full Stack Developer with McKinsey & Co
+* Mainly working in the cloud
+* Talk to me about AWS, GCP & Azure
+* I believe the future is ~serverless~
+
 #### Socials
 
 <div id="badges">
