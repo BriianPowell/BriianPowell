@@ -27,7 +27,7 @@ My name is Brian
 #### 🛠 Languages and Tools
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>
 </div>
 
 ---
