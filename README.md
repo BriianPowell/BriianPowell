@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Brian 😎
+My name is Brian, but some call me BooG
 
-* ⛅ Mainly working in the cloud
-* 💼 Full Stack Developer with McKinsey & Co
-* 🗯 Let's talk about AWS, GCP & Azure!
+* ⛅ Currently working in the clouds
+* 🔭 Full Stack Developer with McKinsey & Co
+* 👯 I’m looking to collaborate on kubernetes and container based workloads
+* 💬 Let's talk about AWS, GCP & Azure!
 
 #### Socials
 
