@@ -23,16 +23,9 @@ I'm Brian 😎
 
 #### Socials
 
-<div id="badges">
-  [![email](https://img.shields.io/badge/Email-brian@powell.place-cyan?style=for-the-badge&logo=gmail)](mailto:brian@powell.place)
+<div id="badges" align="left">
+  ![email](https://img.shields.io/badge/Email-brian@powell.place-cyan?style=for-the-badge&logo=gmail)](mailto:brian@powell.place)
   [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/briianpowell)
-  
-  <a href="https://github.com/BriianPowell">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="https://twitter.com/briianpowell">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 <div id="graphs" align="center">
