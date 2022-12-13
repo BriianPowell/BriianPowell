@@ -23,12 +23,12 @@ My name is Brian, but some call me BooG
 
 #### Socials
 
-<div id="badges" align="left">
+<div id="badges" align="center">
   
-  [![email](https://img.shields.io/badge/Email-brian@powell.place-cyan?style=for-the-badge)](mailto:brian@powell.place)<br>
-  [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/briianpowell)<br>
-  [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BriianPowell)<br>
-  [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/briianpowell)<br>
+  [![email](https://img.shields.io/badge/Email-brian@powell.place-cyan?style=for-the-badge)](mailto:brian@powell.place)
+  [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/briianpowell)
+  [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BriianPowell)
+  [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/briianpowell)
 </div>
 
 <div id="graphs" align="center">
