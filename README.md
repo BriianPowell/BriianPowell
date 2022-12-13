@@ -25,9 +25,9 @@ I'm Brian 😎
 
 <div id="badges" align="left">
   
-  ![email](https://img.shields.io/badge/Email-brian@powell.place-cyan?style=for-the-badge&logo=gmail)](mailto:brian@powell.place)
+  [![email](https://img.shields.io/badge/Email-brian@powell.place-cyan?style=for-the-badge&logo=gmail)](mailto:brian@powell.place)
   
-  ![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/briianpowell)
+  [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/briianpowell)
 </div>
 
 <div id="graphs" align="center">
