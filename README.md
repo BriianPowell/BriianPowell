@@ -32,6 +32,8 @@ My name is Brian
   [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/briianpowell)
 </div>
 
+---
+
 <div id="graphs" align="center">
   
   [![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briianpowell&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
