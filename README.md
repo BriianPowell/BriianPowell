@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 My name is Brian, but some call me BooG
 
-* ⛅ Currently working in the clouds
-* 🔭 Full Stack Developer with McKinsey & Co
+* ⛅ Currently working in the cloud
 * 👯 I’m looking to collaborate on kubernetes and container based workloads
 * 💬 Let's talk about AWS, GCP & Azure!
 
