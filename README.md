@@ -32,6 +32,9 @@ I'm Brian 😎
 </div>
 
 <div id="graphs" align="center">
+  
+  [![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briianpowell&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+  
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briianpowell&theme=dracula" />
   </a>
