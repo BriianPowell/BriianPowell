@@ -17,17 +17,16 @@ Here are some ideas to get you started:
 
 I'm Brian 😎
 
-* Full Stack Developer with McKinsey & Co
-* Mainly working in the cloud
-* Talk to me about AWS, GCP & Azure
-* I believe the future is ~serverless~
+* ⛅ Mainly working in the cloud
+* 💼 Full Stack Developer with McKinsey & Co
+* 🗯 Let's talk about AWS, GCP & Azure!
 
 #### Socials
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/briianpowell/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  [![email](https://img.shields.io/badge/Email-brian@powell.place-cyan?style=for-the-badge&logo=gmail)](mailto:brian@powell.place)
+  [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/briianpowell)
+  
   <a href="https://github.com/BriianPowell">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
