@@ -24,7 +24,15 @@ My name is Brian
 
 ---
 
-#### Socials
+#### 🛠 Languages and Tools
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+#### 🙋‍♂️ Socials
 
 <div id="badges" align="center">
   
@@ -35,6 +43,8 @@ My name is Brian
 </div>
 
 ---
+
+#### 🔥 Stats
 
 <div id="graphs" align="center">
   
