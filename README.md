@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **BriianPowell/BriianPowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Brian, but some call me BooG
+My name is Brian
 
 * ⛅ Currently working in the cloud
 * 👯 I’m looking to collaborate on kubernetes and container based workloads
 * 💬 Let's talk about AWS, GCP & Azure!
+* 📫 Reach me at [email](mailto:brian@powell.place) 
 
 #### Socials
 
