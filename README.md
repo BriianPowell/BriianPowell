@@ -20,6 +20,7 @@ My name is Brian
 * ⛅ Currently working in the cloud
 * 👯 I’m looking to collaborate on kubernetes and container based workloads
 * 💬 Let's talk about AWS, GCP & Azure!
+* 🧑‍💻 Checkout my [website](https://powell.place)
 * 📫 Reach me at my [email](mailto:brian@powell.place) 
 
 ---
