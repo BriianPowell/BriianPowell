@@ -50,6 +50,7 @@ My name is Brian
 #### 🙋‍♂️ Socials
 
 <div id="badges" align="center">
+  
   [![email](https://img.shields.io/badge/Email-brian@powell.place-cyan?style=for-the-badge)](mailto:brian@powell.place)
   [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/briianpowell)
   [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/briianpowell)
@@ -61,6 +62,7 @@ My name is Brian
 #### 🔥 Stats
 
 <div id="graphs" align="center">
+  
   [![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briianpowell&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   [![stat](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=briianpowell&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   [![repos-per-language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=briianpowell&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
