@@ -64,7 +64,6 @@ I'm especially interested in work around:
   [![profile-details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=briianpowell&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
   [![stat](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=briianpowell&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
   [![repos-per-language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=briianpowell&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
